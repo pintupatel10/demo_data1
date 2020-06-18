@@ -1,0 +1,60 @@
+<?php
+
+return [
+    'tour-no' => '旅遊編號',
+    'ticket-no' => '門票編號',
+    'transportation-no' => '交通編號',
+
+    'tour-date' => '旅遊日期',
+    'travel-date' => '旅遊日期',
+    'travel-time' => '啟程時間',
+    'hotel' => '酒店',
+    'title' => '稱呼',
+    'mr' => '先生',
+    'mrs' => '太太',
+    'miss' => '小姐',
+    'first-name' => '名字',
+    'last-name' => '姓氏',
+    'passport' => '國籍',
+    'email' => '電郵',
+    'tel' => '電話',
+    'promo-code' => '優惠碼',
+    'remark' => '備註',
+    'no-of-packages' => '訂單內容',
+    'no-of-tickets' => '船票數量',
+    'sub-total' => '小結',
+    'discount' => '折扣',
+    'service-charge' => '服務費',
+    'total-amount' => '總結',
+    'invalid-promo-code' => '無效的優惠碼',
+    'adv' => '如不想收到錦倫旅運通訊或服務推廣電郵，請勾選方塊。',
+    'terms' => "勾選方格以確認您已閱讀並明白<a href='#term-modal' data-toggle='modal'  style='color:red;'>條款及細則</a>",
+    'add-to-cart' => '加到購物車',
+    'clear' => '重設',
+    'flight-no' => '航班號碼',
+    'flight-placeholder' => '請先填寫以上資料',
+    'flight-empty' => '你選擇的時間沒有航班',
+    'ticket-fee' => '票費',
+    'departure' => '出發',
+    'departure-city' => '出發地',
+    'departure-date' => '出發日期',
+    'departure-time' => '出發時間',
+    'return' => '回程',
+    'return-date' => '回程日期',
+    'return-time' => '回程時間',
+    'guest-info' => '顧客資料',
+
+    'please-select' => '請選擇',
+
+    // Error
+    'amount-error' => '請仔細確認你的預訂。',
+
+    // Turbojet
+    'class' => '客位級別',
+    'economy' => '普通',
+    'super' => '豪華位',
+    'primer-grand' => '尊豪位',
+    'primer-vip' => '至尊貴賓廂',
+
+    'turbojet-ticket' => '噴射飛航船票',
+];

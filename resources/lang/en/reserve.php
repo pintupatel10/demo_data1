@@ -1,0 +1,60 @@
+<?php
+
+return [
+    'tour-no' => 'Tour No.',
+    'ticket-no' => 'Ticket No.',
+    'transportation-no' => 'Transportation No.',
+
+    'tour-date' => 'Tour Date',
+    'travel-date' => 'Travel Date',
+    'travel-time' => 'Travel Time',
+    'hotel' => 'Hotel of Stay',
+    'title' => 'Title',
+    'mr' => 'Mr',
+    'mrs' => 'Mrs',
+    'miss' => 'Miss',
+    'first-name' => 'First Name',
+    'last-name' => 'Last Name',
+    'passport' => 'Passport Nationality',
+    'email' => 'Email',
+    'tel' => 'Telephone',
+    'promo-code' => 'Promo Code',
+    'remark' => 'Remark',
+    'no-of-packages' => 'No. of Package(s)',
+    'no-of-tickets' => 'No. of Ticket(s)',
+    'sub-total' => 'Sub Total',
+    'discount' => 'Discount',
+    'service-charge' => 'Service Charge',
+    'total-amount' => 'Total Amount',
+    'invalid-promo-code' => 'Invalid Promo Code',
+    'adv' => 'If you do not wish to receive any information about or from Gray Line Tours of Hong Kong Limited , please tick here.',
+    'terms' => "Click here to read the <a href='#term-modal' data-toggle='modal'  style='color:red;'> Terms and Condition </a>  and check the box to accept them",
+    'add-to-cart' => 'Add to Cart',
+    'clear' => 'Clear',
+    'flight-no' => 'Flight No.',
+    'flight-placeholder' => 'Please fill out the above form',
+    'flight-empty' => 'No flight available for your selected time',
+    'ticket-fee' => 'Ticket Fee',
+    'departure' => 'Departure',
+    'departure-city' => 'Departure',
+    'departure-date' => 'Departure Date',
+    'departure-time' => 'Departure Time',
+    'return' => 'Return',
+    'return-date' => 'Return Date',
+    'return-time' => 'Return Time',
+    'guest-info' => 'Guest Information',
+
+    'please-select' => 'Please Select',
+
+    // Error
+    'amount-error' => 'Please double check your booking.',
+
+    // Turbojet
+    'class' => 'Class',
+    'economy' => 'Economy Class',
+    'super' => 'Super Class',
+    'primer-grand' => 'Primer Grand',
+    'primer-vip' => 'Primer VIP Cabin',
+
+    'turbojet-ticket' => 'Turbojet Tickets',
+];
